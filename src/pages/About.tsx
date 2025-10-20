@@ -38,7 +38,7 @@ const About = () => {
               <div className="sidebar-card glass-card">
                 <h3>Nasze wartości</h3>
                 <ul className="values-list">
-                  <li>✓ Dane > Opinie</li>
+                  <li>✓ Dane {`>`} Opinie</li>
                   <li>✓ Szybkie iteracje</li>
                   <li>✓ Transparentność</li>
                   <li>✓ Mierzalność</li>
